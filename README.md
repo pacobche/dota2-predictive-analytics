@@ -94,4 +94,4 @@ python main.py
 
 **Francisco García**
 *Operations Research Analyst & Data Practitioner*
-[[LinkedIn Profile](https://www.linkedin.com/in/francisco-garcia-886195201)
+[LinkedIn Profile](https://www.linkedin.com/in/francisco-garcia-886195201)
